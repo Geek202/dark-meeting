@@ -1,0 +1,19 @@
+{
+    "name": "Dark Meeting",
+    "description": "Custom dark theme for Google Meet!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [ "activeTab" ],
+    "web_accessible_resources": [
+        {
+            "resources": [ "dark.style.css" ],
+            "matches": [ "https://meet.google.com/*" ]
+        }
+    ],
+    "content_scripts": [
+        {
+            "matches": [ "https://meet.google.com/*" ],
+            "js": [ "inject_theme.js" ]
+        }
+    ]
+}

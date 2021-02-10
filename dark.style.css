@@ -1,0 +1,532 @@
+/* colours */
+:root {
+  --ttg-background: #252422;
+  --ttg-background-light: #403D39;
+  --ttg-accent: #EB5E28;
+
+  --scrollbar-thumb-dark: #f8f9fa !important;
+  --scrollbar-track-dark: --ttg-accent !important;
+}
+
+/* meeting details title */
+.mKBhCf {
+  color: #eee;
+}
+
+/* chat window */
+.mKBhCf.kjZr4 {
+  background-color: var(--ttg-background);
+}
+
+.ZHdB2e .kaAt2 {
+  background-color: var(--ttg-background);
+}
+
+.Bx7THd.PBWx0c .ZHdB2e .ZjAUM {
+  border-bottom: 1px solid var(--ttg-background-light);
+}
+
+.vvTMTb {
+  background-color: var(--ttg-background);
+}
+
+.z38b6 {
+  border-bottom: 1px solid var(--ttg-background-light);
+}
+
+/* chat+people headings */
+.c0XF8e.kaAt2.KKjvXb, .c0XF8e.kaAt2.KKjvXb .VZhFab {
+  color: var(--ttg-accent);
+}
+
+.q21cab.ZjAUM .s7bIcf {
+  background-color: var(--ttg-accent);
+}
+
+.c0XF8e.kaAt2:not(.KKjvXb), .c0XF8e.kaAt2:not(.KKjvXb) .VZhFab {
+  color: #bbb;
+}
+
+.ZHdB2e .kaAt2:hover {
+  background-color: var(--ttg-background-light);
+}
+
+/* chat message box */
+.XnKlKd .cXrdqd {
+  background-color: var(--ttg-accent);
+}
+
+.XnKlKd .tL9Q4c {
+  color: #ddd;
+}
+
+.e3AdI {
+  color: var(--ttg-accent);
+}
+
+.Cs0vCd.RDPZE .e3AdI {
+  color: #444;
+}
+
+/* people window */
+.Pdo15c {
+  background-color: var(--ttg-background);
+  color: #ddd;
+}
+
+/* add people */
+.Bs3rEf {
+  background-color: var(--ttg-background);
+}
+
+.kCtYwe {
+  border-top: 1px solid var(--ttg-background-light);
+}
+
+.GvcuGe .uB7U9e, .GvcuGe .aC0Bke {
+  color: #bbb;
+}
+
+.cjq2Db {
+  color: #bbb;
+}
+
+.mcyM9d {
+  color: #bbb;
+}
+
+/* bottom bar */
+.rG0ybd.LCXT6 {
+  background-color: var(--ttg-background);
+}
+
+.rG0ybd {
+  box-shadow: 0 1px 4px 0 rgba(60,64,67,0.302),0 1px 6px 4px rgba(60,64,67,0.149);
+}
+
+/* hangup button */
+.Qwoy0d {
+  border: 1px solid #d93025;
+}
+
+/* present button */
+.o9fq9d {
+  color: #ddd;
+}
+
+
+.YhIwSc {
+  color: #bbb;
+}
+
+/* menu dots */
+.c7fp5b {
+  color: #ddd;
+}
+
+/* meeting details */
+.CkXZgc {
+  color: #ddd;
+}
+
+.tovz2b {
+  color: #bbb;
+}
+
+.A00RE {
+  color: white;
+}
+
+.TZFSLb.qjTEB {
+  background-color: var(--ttg-background);
+}
+
+.IOMGae .kaAt2.KKjvXb .NiVZcb, .IOMGae .kaAt2.KKjvXb .pLuP1d {
+  color: var(--ttg-accent);
+}
+
+.DX090c {
+  color: #bbb;
+}
+
+.MZNkdc .snByac {
+  color: #ddd;
+}
+
+.U9X0yc {
+  color: #bbb;
+}
+
+.DwIq5e {
+  color: #bbb;
+}
+
+/* chat messages */
+.YTbUzc {
+  color: #bbb;
+}
+
+
+.oIy2qc {
+  color: #ddd;
+}
+
+/* options dropdown */
+.JPdR6b.qjTEB {
+  background-color: var(--ttg-background);
+}
+
+.CIYi0d .jO7h3c {
+  color: #ddd;
+}
+
+.SX67K {
+  color: #bbb;
+}
+
+.c3Hnwf {
+  color: #bbb;
+}
+
+.yiytvb {
+  color: #bbb;
+}
+
+.z80M1.FwR7Pc {
+  background-color: var(--ttg-background-light);
+}
+
+.JPdR6b {
+  box-shadow: 0 1px 4px 0 rgba(60,64,67,0.4),0 2px 6px 4px rgba(60,64,67,0.25);
+}
+
+/* whiteboard modal */
+.JPdR6b, .llhEMd:not([isfullscreen="true"]) .g3VIld {
+  background-color: var(--ttg-background);
+}
+
+.PNenzf {
+  color: #ddd;
+}
+
+.Wrzqsf {
+  color: #ddd;
+}
+
+.W5uYPc {
+  color: #bbb;
+}
+
+.zW4Hye {
+  color: #bbb;
+}
+
+.fKz7Od {
+  color: #888;
+  fill: #888;
+}
+
+.E5wxQe .snByac {
+  color: #bbb;
+}
+
+/* change layout modal */
+.d7L4fc .hYsg7c .Id5V1 {
+  border-color: #ddd;
+}
+
+.d7L4fc .N2RpBe .Id5V1, .d7L4fc .hYsg7c .nQOrEb {
+  border-color: var(--ttg-accent);
+}
+
+.eQ9mTb .dCWhBf, .eQ9mTb .R4GWv, .eQ9mTb .bBKqme {
+  background-color: var(--ttg-accent);
+}
+
+.RKKCNe {
+  color: var(--ttg-accent);
+}
+
+.R0yd5c .cIGbvc {
+  fill: #999;
+}
+
+.MslXUd .qRUolc, .RKkqi, .JiQUic {
+  color: #bbb;
+}
+
+/* captions modal */
+.eX03B {
+  color: #ddd;
+}
+
+.UCVH3e {
+  color: #bbb;
+}
+
+.DEWFbf {
+  color: #999;
+}
+
+.Jousie .CwaK9 {
+  color: var(--ttg-accent);
+}
+
+.HQ8yf, .HQ8yf a {
+  color: var(--ttg-accent);
+}
+
+/* report abuse modal */
+.Jaex3d {
+  color: #ddd;
+}
+
+.zf3dyb {
+  color: var(--ttg-accent);
+}
+
+.XfeBDf .VfPpkd-fmcmS-wGMbrd {
+  caret-color: var(--ttg-accent);
+}
+
+.fmqdrc .VfPpkd-fmcmS-wGMbrd {
+  caret-color: var(--ttg-accent);
+}
+
+.XfeBDf:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-wGMbrd {
+  color: #ddd;
+}
+
+.fmqdrc:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-wGMbrd {
+  color: #ddd;
+}
+
+.HZ3kWc {
+  color: #ddd;
+}
+
+.XfeBDf.VfPpkd-fmcmS-yrriRe-OWXEXe-XpnDCe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NSFCdd-Brv4Fb, .XfeBDf.VfPpkd-fmcmS-yrriRe-OWXEXe-XpnDCe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NSFCdd-Ra9xwd, .XfeBDf.VfPpkd-fmcmS-yrriRe-OWXEXe-XpnDCe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NSFCdd-MpmGFe {
+  border-color: var(--ttg-accent);
+}
+
+.XfeBDf.VfPpkd-fmcmS-yrriRe-OWXEXe-XpnDCe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NLUYnc-V67aGc {
+  color: var(--ttg-accent);
+}
+
+.fmqdrc.VfPpkd-fmcmS-yrriRe-OWXEXe-XpnDCe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NSFCdd-Brv4Fb, .fmqdrc.VfPpkd-fmcmS-yrriRe-OWXEXe-XpnDCe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NSFCdd-Ra9xwd, .fmqdrc.VfPpkd-fmcmS-yrriRe-OWXEXe-XpnDCe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NSFCdd-MpmGFe {
+  border-color: var(--ttg-accent);
+}
+
+.fmqdrc.VfPpkd-fmcmS-yrriRe-OWXEXe-XpnDCe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NLUYnc-V67aGc {
+  color: var(--ttg-accent);
+}
+
+/* troubleshooting and help */
+.qNakOe {
+  color: #ddd;
+}
+
+.ll0Ame {
+  color: #999;
+}
+
+.fLyZJc {
+  color: #bbb;
+}
+
+.DO5H3e {
+  color: var(--ttg-background);
+  background-color: #bbb;
+}
+
+.wFLcYb {
+  color: #ddd;
+}
+
+.inkUMb {
+  color: #bbb;
+}
+
+.EJhsIe {
+  color: #bbb;
+}
+
+.vplCZe {
+  color: #ddd;
+}
+
+.q80A9d {
+  color: #bbb;
+}
+
+.nsAFCd {
+  color: #999;
+}
+
+.H5bh5b {
+  color: #999;
+}
+
+.ksBjEc:not(:disabled) {
+  color: var(--ttg-accent);
+}
+
+.u2KVqb {
+  color: var(--ttg-accent);
+}
+
+.Ta1Npb:not(.GDqYkf) {
+  color: #bbb;
+}
+
+.xx5ROc {
+  color: #ddd;
+}
+
+.hZ3uGe.eP0LCc.KKjvXb:not(:disabled) .VfPpkd-kBDsod, .hZ3uGe.eP0LCc.KKjvXb:not(:disabled) {
+  color: var(--ttg-accent);
+}
+
+.hZ3uGe:not(:disabled) .VfPpkd-kBDsod, .hZ3uGe:not(:disabled) {
+  color: white;
+}
+
+.hZ3uGe.eP0LCc.KKjvXb:not(:disabled) {
+  background-color: var(--ttg-background-light);
+}
+
+.LjDxcd:hover:not(:disabled), .LjDxcd:active:not(:disabled), .LjDxcd:focus:not(:disabled), .LjDxcd.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe:not(:disabled) {
+  color: #bbb;
+}
+
+.hZ3uGe.eP0LCc.KKjvXb:focus:not(:disabled) .VfPpkd-kBDsod, .hZ3uGe.eP0LCc.KKjvXb:active:not(:disabled) .VfPpkd-kBDsod, .hZ3uGe.eP0LCc.KKjvXb:focus:not(:disabled), .hZ3uGe.eP0LCc.KKjvXb:active:not(:disabled) {
+  color: var(--ttg-accent);
+}
+
+/* audio settings */
+.NVUqMb {
+  background-color: inherit;
+  color: #ddd;
+}
+
+.K4VHc {
+  color: var(--ttg-accent);
+}
+
+.MocG8c {
+  color: #ccc;
+}
+
+.e2CuFe {
+  border-color: rgba(255,255,255,.5) transparent;
+}
+
+.ktANpb {
+  color: #bbb;
+}
+
+.RoFGbb {
+  color: #bbb;
+}
+
+.ktANpb.RDPZE {
+  color: #bbb;
+}
+
+/* video settings */
+.E5aed {
+  color: var(--ttg-accent);
+}
+
+.clMRcc {
+  background-color: inherit;
+  color: #ccc;
+}
+
+/* general settings */
+.Z3Eyx {
+  color: #ddd;
+}
+
+.aiSeRd.N2RpBe {
+  border-color: var(--ttg-accent);
+}
+
+/* present now menu */
+.ZiTobc {
+  color: #bbb;
+}
+
+.z80M1 {
+  color: #ddd;
+}
+
+.giZTad {
+  color: #999;
+}
+
+.QkKrhf {
+  color: #999;
+}
+
+/* person dropdown */
+.x6Aw6b {
+  color: #ddd;
+}
+
+.xGdnqe {
+  color: #bbb;
+}
+
+/* add people */
+.cU0hbd .K74C9e {
+  color: #ddd;
+}
+
+.cU0hbd .D0baBe {
+  color: #bbb;
+}
+
+/* top bar */
+.NzPR9b {
+  background-color: var(--ttg-background);
+}
+
+.foXzLb {
+  color: #ddd;
+}
+
+.L7osyb {
+  color: #ddd;
+}
+
+.lvE3se {
+  background-color: var(--ttg-background-light);
+}
+
+/* mic input animations */
+.wPUBwe {
+  color: var(--ttg-accent);
+}
+
+.KV1GEc .x9nQ6 {
+  color: var(--ttg-accent);
+}
+
+.IisKdb {
+  color: var(--ttg-accent);
+}
+
+/* scrollbar attempt */
+::-webkit-scrollbar {
+    width: 10px;
+    border-radius: 25px;
+    background-color: var(--scrollbar-track-dark) !important;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 25px;
+    background-color: var(--ttg-accent) !important;
+}
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}

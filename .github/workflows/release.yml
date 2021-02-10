@@ -1,0 +1,24 @@
+name: Release
+
+on:
+  release:
+    types: [ published ]
+
+env:
+  VERSION: ${{ github.ref }}
+
+jobs:
+  # Publish a new release on GitHub
+  github-release:
+    needs: [ build ]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code.
+        uses: actions/checkout@v2
+      - name: Generate ZIP file
+        run: zip dark-meeting.zip -i dark.style.css inject_theme.js manifest.json
+      - name: Upload GitHub release
+        uses: AButler/upload-release-assets@v2.0
+        with:
+          files: 'dark-meeting.zip'
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
