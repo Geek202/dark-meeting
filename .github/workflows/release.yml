@@ -10,7 +10,6 @@ env:
 jobs:
   # Publish a new release on GitHub
   github-release:
-    needs: [ build ]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code.
