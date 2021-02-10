@@ -15,7 +15,7 @@ jobs:
       - name: Checkout code.
         uses: actions/checkout@v2
       - name: Generate ZIP file
-        run: zip dark-meeting.zip -i dark.style.css inject_theme.js manifest.json
+        run: zip dark-meeting.zip dark.style.css inject_theme.js manifest.json
       - name: Upload GitHub release
         uses: AButler/upload-release-assets@v2.0
         with:
