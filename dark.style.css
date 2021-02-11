@@ -109,11 +109,16 @@
   border: 1px solid #d93025;
 }
 
+/* mic + camera buttons */
+
+.A00RE .bkbMM {
+  fill: #bbb;
+}
+
 /* present button */
 .o9fq9d {
   color: #ddd;
 }
-
 
 .YhIwSc {
   color: #bbb;
@@ -517,9 +522,26 @@
   color: var(--ttg-accent);
 }
 
+/* add people modal */
+.duTsYc {
+  background-color: inherit;
+}
+
+.MpY5pe {
+  color: #ddd;
+}
+
+.UNoX6b {
+  color: #bbb;
+}
+
+.inWicd {
+  color: #999;
+}
+
 /* scrollbar attempt */
 ::-webkit-scrollbar {
-    width: 10px;
+    width: 5px;
     border-radius: 25px;
     background-color: var(--scrollbar-track-dark) !important;
 }
