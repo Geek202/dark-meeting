@@ -115,6 +115,15 @@
   fill: #bbb;
 }
 
+/* raise hand */
+.OCZA0d {
+  color: #ddd;
+}
+
+.sPXonc {
+  color: #bbb;
+}
+
 /* present button */
 .o9fq9d {
   color: #ddd;
@@ -122,6 +131,18 @@
 
 .YhIwSc {
   color: #bbb;
+}
+
+.uD3s5c .FrkLCe {
+  color: #ddd;
+}
+
+.FrkLCe {
+  color: var(--ttg-accent);
+}
+
+.Q8K3Le.o7y9G .XFtqNb, .Q8K3Le.o7y9G .I98jWb {
+  color: var(--ttg-accent);
 }
 
 /* menu dots */
@@ -166,11 +187,14 @@
   color: #bbb;
 }
 
+.D6kPY {
+  color: #bbb;
+}
+
 /* chat messages */
 .YTbUzc {
   color: #bbb;
 }
-
 
 .oIy2qc {
   color: #ddd;
@@ -199,6 +223,10 @@
 
 .z80M1.FwR7Pc {
   background-color: var(--ttg-background-light);
+}
+
+.VfeYV {
+  color: #bbb;
 }
 
 .JPdR6b {
