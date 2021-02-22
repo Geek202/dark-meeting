@@ -550,6 +550,11 @@
   color: var(--ttg-accent);
 }
 
+/* speaker indicator */
+.rd55Rb {
+  background-color: var(--ttg-accent);
+}
+
 /* add people modal */
 .duTsYc {
   background-color: inherit;
