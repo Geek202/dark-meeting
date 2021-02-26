@@ -626,6 +626,31 @@
   color: #bbb;
 }
 
+/* someone wants to join */
+.AmEdyd {
+  color: #ddd;
+}
+
+.W0LGoe {
+  color: #bbb;
+}
+
+.vSWmFe {
+  color: var(--ttg-accent);
+}
+
+.V39cg {
+  color: #bbb;
+}
+
+.xujVm .HVRCjc.N2RpBe {
+  border-color: var(--ttg-accent);
+}
+
+.zU5eKe .snByac {
+  color: var(--ttg-accent);
+}
+
 /* scrollbar attempt */
 ::-webkit-scrollbar {
     width: 5px;
