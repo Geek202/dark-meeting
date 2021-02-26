@@ -1,4 +1,5 @@
 async function tomthegeek_inject_css() {
+    debugger;
     console.log('[Dark Meetings] Waiting to join call...');
     // Wait until in call
     while (document.querySelector(".d7iDfe") !== null) {
