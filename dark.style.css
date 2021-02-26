@@ -520,6 +520,27 @@
   color: #bbb;
 }
 
+/* pfp in top right */
+.RWK2Je .r6DyN {
+  z-index: 1;
+}
+
+.ADivge.vLRPrf .BQOTQe, .ADivge.U2FsHb .BQOTQe, .ADivge.L3eATc .BQOTQe {
+  background-color: var(--ttg-background);
+}
+
+.FG50me {
+  z-index: 2;
+}
+
+.ADivge.vLRPrf .pUTHKf {
+  color: white;
+}
+
+.ADivge.vLRPrf .xSov9c {
+  color: var(--ttg-accent);
+}
+
 /* top bar */
 .NzPR9b {
   background-color: var(--ttg-background);
@@ -574,6 +595,60 @@
 
 .inWicd {
   color: #999;
+}
+
+/* meeting ready dialog */
+.xTGfdf {
+  background-color: var(--ttg-background);
+}
+
+.BVRS9e {
+  color: #ddd;
+}
+
+.Y5sE8d {
+  background: var(--ttg-accent);
+}
+
+.gvnMbb {
+  background: var(--ttg-background-light);
+}
+
+.okqcNc {
+  color: #ddd;
+}
+
+.LCQ7g {
+  color: #bbb;
+}
+
+.pKGwOc, .w29hZ {
+  color: #bbb;
+}
+
+/* someone wants to join */
+.AmEdyd {
+  color: #ddd;
+}
+
+.W0LGoe {
+  color: #bbb;
+}
+
+.vSWmFe {
+  color: var(--ttg-accent);
+}
+
+.V39cg {
+  color: #bbb;
+}
+
+.xujVm .HVRCjc.N2RpBe {
+  border-color: var(--ttg-accent);
+}
+
+.zU5eKe .snByac {
+  color: var(--ttg-accent);
 }
 
 /* scrollbar attempt */
