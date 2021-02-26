@@ -520,6 +520,27 @@
   color: #bbb;
 }
 
+/* pfp in top right */
+.RWK2Je .r6DyN {
+  z-index: 1;
+}
+
+.ADivge.vLRPrf .BQOTQe, .ADivge.U2FsHb .BQOTQe, .ADivge.L3eATc .BQOTQe {
+  background-color: var(--ttg-background);
+}
+
+.FG50me {
+  z-index: 2;
+}
+
+.ADivge.vLRPrf .pUTHKf {
+  color: white;
+}
+
+.ADivge.vLRPrf .xSov9c {
+  color: var(--ttg-accent);
+}
+
 /* top bar */
 .NzPR9b {
   background-color: var(--ttg-background);
