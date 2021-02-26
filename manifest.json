@@ -1,6 +1,7 @@
 {
     "name": "Dark Meeting",
     "description": "Custom dark theme for Google Meet!",
+    "author": "Tom_The_Geek",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": [ "activeTab" ],
