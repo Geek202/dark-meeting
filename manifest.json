@@ -7,12 +7,12 @@
     "web_accessible_resources": [
         {
             "resources": [ "dark.style.css" ],
-            "matches": [ "https://meet.google.com/*" ]
+            "matches": [ "*://meet.google.com/*" ]
         }
     ],
     "content_scripts": [
         {
-            "matches": [ "https://meet.google.com/*" ],
+            "matches": [ "*://meet.google.com/*" ],
             "js": [ "inject_theme.js" ]
         }
     ]

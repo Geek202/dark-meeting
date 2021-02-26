@@ -597,6 +597,35 @@
   color: #999;
 }
 
+/* meeting ready dialog */
+.xTGfdf {
+  background-color: var(--ttg-background);
+}
+
+.BVRS9e {
+  color: #ddd;
+}
+
+.Y5sE8d {
+  background: var(--ttg-accent);
+}
+
+.gvnMbb {
+  background: var(--ttg-background-light);
+}
+
+.okqcNc {
+  color: #ddd;
+}
+
+.LCQ7g {
+  color: #bbb;
+}
+
+.pKGwOc, .w29hZ {
+  color: #bbb;
+}
+
 /* scrollbar attempt */
 ::-webkit-scrollbar {
     width: 5px;
