@@ -558,6 +558,11 @@
   background-color: var(--ttg-background-light);
 }
 
+/* unread messages dot */
+.Z7iKHc {
+  background-color: var(--ttg-accent);
+}
+
 /* mic input animations */
 .wPUBwe {
   color: var(--ttg-accent);
